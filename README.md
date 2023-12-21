@@ -39,16 +39,3 @@ To use the neural network with your dataset:
 3. **Train the Model:**
    Run the training script:
 
-
-## Usage
-To use the neural network with your dataset:
-
-1. **Prepare Your Dataset:**
-   Ensure your data is in a CSV format with features and labels. The first column should be the labels, and the rest should be features.
-
-2. **Load and Split the Dataset:**
-   Update the file path in `examples/train_and_evaluate.py` to point to your dataset.
-
-3. **Train the Model:**
-   Run the training script:
-
